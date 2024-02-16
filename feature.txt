@@ -1,0 +1,2 @@
+This is a new feature created for the purpose of assignment 
+for the git lessons and collaborate with a friend.
